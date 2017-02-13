@@ -1,0 +1,28 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/lipidong/work/" . "check_hotspot/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/lipidong/work/check_hotspot/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "PA569TQ1.csv"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/lipidong/work/check_hotspot/" (22444 688 79392 886000) "PA569TQ1.csv" "check_hotspot.R~" "check_hotspot.ipynb" "check_hotspot2.R" ".ipynb_checkpoints/" "../" "./" "data/" "check_hotspot2.R~" "nohup.out" "check_hotspot2.ipynb" "check_hotspot.R" "PA569_chem.csv" "raw_data/" "oncotator.log")
+
+ ("/home/lipidong/work/" (22434 55491 437479 517000) "out/" "sv_anno/" "../" "workflow/" "./" "creatReport_lpd.py" "check_hotspot/" "cal_depth/")
+
+ ("/home/lipidong/" (22443 61590 201710 482000) ".pki/" "igv/" ".gnome2_private/" "shell/" ".bash_history" "anaconda2/" ".viminfo" ".local/" ".oh-my-zsh/" "test/" ".zcompdump-bioeb-5.2" ".pulse-cookie" ".emacs.d/" "test.py" ".gconfd/" ".gvfs/" ".zshrc" ".imsettings.log" ".lesshst" ".jupyter/" ".bash_profile~" ".gnupg/" ".ipynb_checkpoints/" ".continuum/" ".ipython/" ".zcompdump-bioed-5.2" ".t_coffee/" "downloads/" ".ncbirc" ".dbus/" ".bash_profile" "../" ".mozilla/" "./" ".java/" ".pulse/" "bio/" ".python-eggs/" ".gconf/" ".redhat/" ".zshrc.bak" "Untitled1.ipynb" ".Xauthority" ".config/" "Desktop/" ".pip/" ".zsh-update" "RC636TW2/" ".cache/" "softwares/" ".ICEauthority" ".spyder2/" ".profile" "sv_anno.txt" ".zsh_history" ".ssh/" ".elinks/" "learn/" ".mkshrc" "Untitled.ipynb" ".bashrc-anaconda2.bak" "work/" ".bashrc~" "tmp/" ".kshrc" ".distlib/" "bin/" "init_human.sh" ".nautilus/" ".rvm/" ".bashrc-anaconda3.bak" ".gnome2/" ".bashrc" ".zlogin" ".bash_logout")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
